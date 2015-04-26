@@ -47,3 +47,8 @@ ltmain.sh
 
 *.pc
 *.spec
+
+#make
+compile
+tags
+twsapi_config.h
